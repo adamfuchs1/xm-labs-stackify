@@ -1,2 +1,0 @@
-# xm-labs-stackify
-Stackify
